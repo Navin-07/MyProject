@@ -1,2 +1,3 @@
-print("""      Hello all""")
-print("""Hey ppl This is ur tech nerd""")
+import math
+x=math.acos(-1)
+print(x)
